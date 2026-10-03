@@ -1,77 +1,111 @@
-<br clear="both">
+<div align="center">
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="142" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1>Hi, I'm Anshul 👋</h1>
 
-###
+<p>
+  Software Developer • Backend • AI • Automation
+</p>
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/anshul-kumar-627001250/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p>
+  <a href="https://www.linkedin.com/in/anshul-kumar-627001250/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/Anshulk012" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://x.com/Anshulk012">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="mailto:anshulwork0102@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:anshulwork0102@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+
 </div>
 
-###
+---
 
-<h1 data-importer="text" align="center">Hi, I'm Anshul 👋</h1>
+## 👨‍💻 About Me
 
-###
+I'm a Software Developer who enjoys building things at the intersection of **backend engineering, AI, and automation**.
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+I like understanding how systems work under the hood and turning ideas into practical, working products.
 
-###
+- 💻 Building backend systems with **Java, Spring Boot, Python & REST APIs**
+- 🤖 Exploring **Generative AI, RAG, NLP & AI-powered developer tools**
+- ⚙️ Enjoy building **automation, CI/CD pipelines and developer workflows**
+- 🧠 Have worked on **ML/DL, NLP, Web3, cloud and full-stack projects**
+- 🚀 Interested in **system design, scalable systems and AI engineering**
+- ⚡ Outside of code: **sports, hackathons & building random things**
 
-<p data-importer="text" align="left">I'm a Software Developer who enjoys building things at the intersection of software engineering, AI, and automation.<br><br>I like understanding how systems work under the hood and turning ideas into things that actually work, from backend services and developer tools to AI-powered applications and automation pipelines.<br><br>💻 I enjoy building with Java, Python, Spring Boot, and backend technologies<br>🤖 I'm interested in Generative AI, RAG, NLP, and intelligent developer tools<br>⚙️ I love automating repetitive workflows and building systems that make development and deployment easier<br>🗄️ I enjoy working with databases, APIs, system integrations, and distributed application workflows<br>🚀 I've built projects involving AI/ML, NLP, Web3, automation, and full-stack development<br>🧠 Currently exploring deeper into system design, backend engineering, AI engineering, and scalable systems<br>⚡ Outside of code, I enjoy sports, hackathons, and building random things.</p>
+---
 
-###
+## 🛠️ Tech Stack
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+### Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="SQL"/>
+</p>
 
-###
+### Backend & AI
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="38" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="38" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="38" alt="TensorFlow"/>
+</p>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+<p>
+  <b>Generative AI • RAG • NLP • Hugging Face • Spring AOP • REST APIs • Neo4j</b>
+</p>
+
+### Cloud, DevOps & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="38" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="38" alt="Jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="GitHub"/>
+</p>
+
+<p>
+  <b>Playwright • PostgreSQL • Streamlit • Web3 • Solidity</b>
+</p>
+
+---
+
+## 🚀 Things I've Built & Explored
+
+- 🤖 **AI & RAG** — AI-powered debugging tools, knowledge bases, dependency tracing and intelligent developer workflows
+- 🔊 **AI Audio** — PDF-to-audio applications using NLP, emotion analysis and AWS Polly
+- 🧠 **Machine Learning** — NLP, sentiment/emotion classification and deep learning models
+- ⛓️ **Web3** — Blockchain applications, smart contracts and NFT-based platforms
+- ⚙️ **Automation** — CI/CD, deployment sanity checks, data migration and workflow automation
+- 🌐 **Full Stack** — Web applications, REST APIs and interactive ML applications
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anshulk2004&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulk2004&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+
 </div>
 
-###
+<div align="center">
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<img src="https://streak-stats.demolab.com?user=Anshulk2004&theme=dark&hide_border=true&border_radius=10" />
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Anshulk2004&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+---
+
+<div align="center">
+
+### ✨ Always building. Always learning.
+
+</div>
