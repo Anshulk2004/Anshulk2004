@@ -16,6 +16,9 @@
   <a href="mailto:anshulwork0102@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://drive.google.com/file/d/1Tqre9R8iUzxjRJLPsdrdS_SOCSQBMjNe/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
 </p>
 
 </div>
